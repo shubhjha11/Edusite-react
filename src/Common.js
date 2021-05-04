@@ -13,11 +13,11 @@ const Common = (props) => {
                                     <h1>
                                         {props.name}
                                         <strong className="brand-name">
-                                            AmitKumar
+                                            Shubham Jhanwar
                                         </strong>
                                     </h1>
                                     <h2 className="my-3">
-                                        We are the team of talentd developer making websites.
+                                        It is an attempt to create a education website.(a bit similar to ueno) 
                                     </h2>
                                     <div className="mt-3">
                                         <NavLink to={props.visit} className="btn-get-started" >{props.btname}
