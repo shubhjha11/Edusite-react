@@ -19,15 +19,15 @@ const Sdata = [
     },
     {
         imgsrc: digital,
-        title: "digital development",
+        title: "Digital development",
     },
     {
         imgsrc: hcu,
-        title: "digital development",
+        title: "Python development",
     },
     {
         imgsrc: jnu,
-        title: "digital development",
+        title: "Java development",
     },
 
 ];
