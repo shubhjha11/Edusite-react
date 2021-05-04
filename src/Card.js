@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import web from '../src/images/pond.jpg';
+import web from '../src/images/web-d.jpg';
 import {Container, Row, Col} from 'react-bootstrap';
 const Card = (props) => {
     return (
