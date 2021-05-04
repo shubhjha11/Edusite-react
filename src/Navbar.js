@@ -16,7 +16,7 @@ const Navbar = () => {
                                 <div className="collapse navbar-collapse  flex-grow-0" id="navbarSupportedContent">
                                     <ul className="navbar-nav ml-auto mb-2 mb-lg-0">
                                         <li className="nav-item active">
-                                            <NavLink className="nav-link" to="/">Home <span className="sr-only">(current)</span></NavLink>
+                                            <NavLink className="nav-link" to="/">Home</NavLink>
                                         </li>
                                         <li className="nav-item">
                                             <NavLink className="nav-link" to="/services">Services</NavLink>
